@@ -1,0 +1,1 @@
+cours by Author : name=tuto, affiliation=tuto, emailAddress=tuto@gmail.com, Selling Price: 123.0, Quantity Sold: 1234 7589.1
